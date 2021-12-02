@@ -1,5 +1,3 @@
-# Mrher13
+#HI :wave: My name is Carlos Hernandez!
 
-## HI :wave: My name is Carlos Hernandez!
-## I am a :beginner: Developer 
-
+## I am a :beginner: Software Developer :computer:
