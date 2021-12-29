@@ -1,7 +1,8 @@
-#HI :wave: My name is Carlos Hernandez!
+# HI :wave: My name is Carlos Hernandez 🎆
 
 
-## I am talented  Software Developer :computer:
+
+## I am talented 🔥 Fullstack Web Developer 💻 📱
 
 
-### Favorite hobbies are photography :camera_flash: and playing football :football:
+### Some of my favorite things i enjoy when i am not coding is ⛹️‍♂️ & 🎮 & 🏈 :
